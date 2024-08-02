@@ -1,14 +1,20 @@
+import os
+from src.settings import BASE_DIR
 from src.read.base_doc import BaseDoc
-    
+from src.talk.sound import Sound 
+
+
 def main():
-    PATH = "docs/test2.pdf"
-    doc = BaseDoc.generate(PATH)
+    """Play book content as audio using os page by page, with controle to pause, resume and stop"""
+    # Create a BaseDoc object
+    doc = BaseDoc.generate("docs/cote_3.pdf")
+    # Read the document
     doc.read()
-    print("\n")
-    for i in range(len(doc.get_pages())):
-        BaseDoc.pretty_print(f"------- page {i} -------")
-        print(doc.get_page(i))
-        print("\n\n")
+    # Create a Sound object
+    sound = Sound()
+    sound.generate_audio("test.wav", doc.get_page(2))
+    # Play the audio
+    os.system("aplay " + str(BASE_DIR / "out" / "test.wav"))
 
 if __name__ == "__main__":
     main()

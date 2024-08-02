@@ -1,0 +1,318 @@
+{
+    "tts_models": {
+        "multilingual": {
+            "multi-dataset": [
+                "xtts_v2",
+                "xtts_v1.1",
+                "your_tts",
+                "bark"
+            ]
+        },
+        "bg": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "cs": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "da": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "et": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "ga": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "en": {
+            "ek1": [
+                "tacotron2"
+            ],
+            "ljspeech": [
+                "tacotron2-DDC",
+                "tacotron2-DDC_ph",
+                "glow-tts",
+                "speedy-speech",
+                "tacotron2-DCA",
+                "vits",
+                "vits--neon",
+                "fast_pitch",
+                "overflow",
+                "neural_hmm"
+            ],
+            "vctk": [
+                "vits",
+                "fast_pitch"
+            ],
+            "sam": [
+                "tacotron-DDC"
+            ],
+            "blizzard2013": [
+                "capacitron-t2-c50",
+                "capacitron-t2-c150_v2"
+            ],
+            "multi-dataset": [
+                "tortoise-v2"
+            ],
+            "jenny": [
+                "jenny"
+            ]
+        },
+        "es": {
+            "mai": [
+                "tacotron2-DDC"
+            ],
+            "css10": [
+                "vits"
+            ]
+        },
+        "fr": {
+            "mai": [
+                "tacotron2-DDC"
+            ],
+            "css10": [
+                "vits"
+            ]
+        },
+        "uk": {
+            "mai": [
+                "glow-tts",
+                "vits"
+            ]
+        },
+        "zh-CN": {
+            "baker": [
+                "tacotron2-DDC-GST"
+            ]
+        },
+        "nl": {
+            "mai": [
+                "tacotron2-DDC"
+            ],
+            "css10": [
+                "vits"
+            ]
+        },
+        "de": {
+            "thorsten": [
+                "tacotron2-DCA",
+                "vits",
+                "tacotron2-DDC"
+            ],
+            "css10": [
+                "vits-neon"
+            ]
+        },
+        "ja": {
+            "kokoro": [
+                "tacotron2-DDC"
+            ]
+        },
+        "tr": {
+            "common-voice": [
+                "glow-tts"
+            ]
+        },
+        "it": {
+            "mai_female": [
+                "glow-tts",
+                "vits"
+            ],
+            "mai_male": [
+                "glow-tts",
+                "vits"
+            ]
+        },
+        "ewe": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "hau": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "lin": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "tw_akuapem": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "tw_asante": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "yor": {
+            "openbible": [
+                "vits"
+            ]
+        },
+        "hu": {
+            "css10": [
+                "vits"
+            ]
+        },
+        "el": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "fi": {
+            "css10": [
+                "vits"
+            ]
+        },
+        "hr": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "lt": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "lv": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "mt": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "pl": {
+            "mai_female": [
+                "vits"
+            ]
+        },
+        "pt": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "ro": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "sk": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "sl": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "sv": {
+            "cv": [
+                "vits"
+            ]
+        },
+        "ca": {
+            "custom": [
+                "vits"
+            ]
+        },
+        "fa": {
+            "custom": [
+                "glow-tts"
+            ]
+        },
+        "bn": {
+            "custom": [
+                "vits-male",
+                "vits-female"
+            ]
+        },
+        "be": {
+            "common-voice": [
+                "glow-tts"
+            ]
+        }
+    },
+    "vocoder_models": {
+        "universal": {
+            "libri-tts": [
+                "wavegrad",
+                "fullband-melgan"
+            ]
+        },
+        "en": {
+            "ek1": [
+                "wavegrad"
+            ],
+            "ljspeech": [
+                "multiband-melgan",
+                "hifigan_v2",
+                "univnet"
+            ],
+            "blizzard2013": [
+                "hifigan_v2"
+            ],
+            "vctk": [
+                "hifigan_v2"
+            ],
+            "sam": [
+                "hifigan_v2"
+            ]
+        },
+        "nl": {
+            "mai": [
+                "parallel-wavegan"
+            ]
+        },
+        "de": {
+            "thorsten": [
+                "wavegrad",
+                "fullband-melgan",
+                "hifigan_v1"
+            ]
+        },
+        "ja": {
+            "kokoro": [
+                "hifigan_v1"
+            ]
+        },
+        "uk": {
+            "mai": [
+                "multiband-melgan"
+            ]
+        },
+        "tr": {
+            "common-voice": [
+                "hifigan"
+            ]
+        },
+        "be": {
+            "common-voice": [
+                "hifigan"
+            ]
+        }
+    },
+    "voice_conversion_models": {
+        "multilingual": {
+            "vctk": [
+                "freevc24"
+            ]
+        }
+    }
+}
