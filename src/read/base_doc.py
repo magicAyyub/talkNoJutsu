@@ -1,5 +1,9 @@
+import time
 import re
+import json
+from pathlib import Path
 from colorama import Fore, Style
+from src.settings import BASE_DIR
 
 class BaseDoc:
     def __init__(self, path: str) -> None:
@@ -14,11 +18,23 @@ class BaseDoc:
     def __repr__(self) -> str:
         return self.text
            
-    def read(self):
+    async def read(self) -> None:
+        # check the json format of the file exists
+        print(BASE_DIR / "out" / Path(self.path).name)
+        if BASE_DIR / "out" / Path(self.path).name:
+            with open(BASE_DIR / "out" / Path(self.path).name, "r") as f:
+                self.pages = json.load(f)
+            return
         BaseDoc.pretty_print("Reading the document...")
         with open(self.path, "r") as f:
             self.text = f.read()
         self.preprocess()
+        time.sleep(1)
+        # Generate json version of the document for future use
+        with open(BASE_DIR / "out" / f"{Path(self.path).stem}.json" , "w") as f:
+            json.dump(self.pages, f)
+        BaseDoc.pretty_print("Reading is done.")
+        
 
     def save(self, path: str) -> None:
         with open(path, "w") as f:

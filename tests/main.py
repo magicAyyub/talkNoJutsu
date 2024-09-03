@@ -1,20 +1,36 @@
-import os
+import json
+import asyncio
+import aiofiles
 from src.settings import BASE_DIR
 from src.read.base_doc import BaseDoc
-from src.talk.sound import Sound 
+from src.talk.sound import Sound
 
 
-def main():
-    """Play book content as audio using os page by page, with controle to pause, resume and stop"""
-    # Create a BaseDoc object
+async def main():
+    # Create an instance based on file extension
     doc = BaseDoc.generate("docs/cote_3.pdf")
-    # Read the document
-    doc.read()
+    await doc.read()  
+
     # Create a Sound object
     sound = Sound()
-    sound.generate_audio("test.wav", doc.get_page(2))
-    # Play the audio
-    os.system("aplay " + str(BASE_DIR / "out" / "test.wav"))
+
+    # Get voices with their details and save them to a JSON file
+    voices_file = BASE_DIR / "out" / "voices.json"
+    if not voices_file.exists():
+        async with aiofiles.open(voices_file, "w") as f:
+            voices = await sound.get_voices()  
+            await f.write(json.dumps(voices, indent=4))
+    
+    # Get the audio of some pages
+    NUMBER_OF_PAGES = 5
+    START = 2
+    for i in range(START, NUMBER_OF_PAGES + 1):
+        print(f"Getting audio of page {i}")
+        speech = await sound.get_audio(doc.get_page(i))  
+        async with aiofiles.open(BASE_DIR / "out" / f"page{i}.mp3", "wb") as f:
+            print(f"Saving page audio {i}...")
+            await f.write(speech)
+            BaseDoc.pretty_print("Done.")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

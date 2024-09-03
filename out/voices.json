@@ -1,0 +1,2833 @@
+[
+    {
+        "id": "henry",
+        "type": "shared",
+        "display_name": "Henry",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-henry-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-henry-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-henry-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-henry-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-henry-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-henry-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-henry-speechify-multilingual.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-henry-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-henry-speechify.webp"
+    },
+    {
+        "id": "bwyneth",
+        "type": "shared",
+        "display_name": "Erica",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-bwyneth-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-bwyneth-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-bwyneth-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-bwyneth-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-bwyneth-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-bwyneth-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-bwyneth-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-bwyneth-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-bwyneth-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-bwyneth-speechify.webp"
+    },
+    {
+        "id": "carly",
+        "type": "shared",
+        "display_name": "Carly",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-carly-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-carly-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-carly-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-carly-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-carly-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-carly-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-carly-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-carly-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-carly-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-carly-speechify.webp"
+    },
+    {
+        "id": "kyle",
+        "type": "shared",
+        "display_name": "Kyle",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kyle-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kyle-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kyle-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kyle-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kyle-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kyle-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kyle-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kyle-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-kyle-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-kyle-speechify.webp"
+    },
+    {
+        "id": "kristy",
+        "type": "shared",
+        "display_name": "Kristy",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kristy-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kristy-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kristy-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kristy-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kristy-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kristy-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kristy-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-kristy-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-kristy-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-kristy-speechify.webp"
+    },
+    {
+        "id": "oliver",
+        "type": "shared",
+        "display_name": "Oliver",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-oliver-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-oliver-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-oliver-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-oliver-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-oliver-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-oliver-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-oliver-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-oliver-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-oliver-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-oliver-speechify.webp"
+    },
+    {
+        "id": "tasha",
+        "type": "shared",
+        "display_name": "Tasha",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-tasha-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-tasha-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-tasha-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-tasha-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-tasha-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-tasha-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-tasha-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-tasha-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-tasha-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-tasha-speechify.webp"
+    },
+    {
+        "id": "joe",
+        "type": "shared",
+        "display_name": "Joe",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-joe-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-joe-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-joe-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-joe-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-joe-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-joe-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-joe-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-joe-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-joe-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-joe-speechify.webp"
+    },
+    {
+        "id": "lisa",
+        "type": "shared",
+        "display_name": "Lisa",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lisa-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-lisa-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-lisa-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lisa-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lisa-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-lisa-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-lisa-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lisa-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-lisa-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-lisa-speechify.webp"
+    },
+    {
+        "id": "george",
+        "type": "shared",
+        "display_name": "George",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-george-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-george-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-george-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-george-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-george-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-george-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-george-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-george-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-george-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-george-speechify.webp"
+    },
+    {
+        "id": "emily",
+        "type": "shared",
+        "display_name": "Emily",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-emily-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-emily-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-emily-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-emily-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-emily-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-emily-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-emily-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-emily-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-emily-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-emily-speechify.webp"
+    },
+    {
+        "id": "rob",
+        "type": "shared",
+        "display_name": "Rob",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-rob-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-rob-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-rob-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-rob-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-rob-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-rob-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-rob-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-rob-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-rob-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-rob-speechify.webp"
+    },
+    {
+        "id": "russell",
+        "type": "shared",
+        "display_name": "Russell",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-russell-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-russell-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-russell-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-russell-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-russell-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-russell-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-russell-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-russell-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-russell-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-russell-speechify.webp"
+    },
+    {
+        "id": "benjamin",
+        "type": "shared",
+        "display_name": "Benjamin",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-benjamin-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-benjamin-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-benjamin-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-benjamin-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-benjamin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-benjamin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-benjamin-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-benjamin-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-benjamin-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-benjamin-speechify.webp"
+    },
+    {
+        "id": "michael",
+        "type": "shared",
+        "display_name": "Michael",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-michael-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-michael-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-michael-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-michael-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-michael-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-michael-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-michael-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-michael-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-michael-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-michael-speechify.webp"
+    },
+    {
+        "id": "kim",
+        "type": "shared",
+        "display_name": "Kim",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-kim-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kim-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kim-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-kim-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-kim-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-kim-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-kim-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-kim-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-kim-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-AU-kim-speechify.webp"
+    },
+    {
+        "id": "ankit",
+        "type": "shared",
+        "display_name": "Ankit",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-ankit-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ankit-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ankit-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-ankit-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-ankit-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ankit-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ankit-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-ankit-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-ankit-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-IN-ankit-speechify.webp"
+    },
+    {
+        "id": "arun",
+        "type": "shared",
+        "display_name": "Arun",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-arun-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-arun-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-arun-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-arun-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-arun-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-arun-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-arun-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-IN",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-IN-arun-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-arun-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-IN-arun-speechify.webp"
+    },
+    {
+        "id": "carol",
+        "type": "shared",
+        "display_name": "Carol",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-carol-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-carol-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-carol-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-carol-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-carol-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-carol-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-carol-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-carol-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-carol-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-carol-speechify.webp"
+    },
+    {
+        "id": "helen",
+        "type": "shared",
+        "display_name": "Helen",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-helen-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-helen-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-helen-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-helen-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-helen-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-helen-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-helen-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-helen-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-helen-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-helen-speechify.webp"
+    },
+    {
+        "id": "julie",
+        "type": "shared",
+        "display_name": "Julie",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-julie-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-julie-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-julie-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-julie-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-julie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-julie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-julie-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-julie-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-julie-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-julie-speechify.webp"
+    },
+    {
+        "id": "linda",
+        "type": "shared",
+        "display_name": "Linda",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-linda-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-linda-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-linda-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-linda-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-linda-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-linda-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-linda-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-AU",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-AU-linda-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-linda-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-AU-linda-speechify.webp"
+    },
+    {
+        "id": "mark",
+        "type": "shared",
+        "display_name": "Mark",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mark-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-mark-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-mark-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mark-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mark-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-mark-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-mark-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mark-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-mark-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-mark-speechify.webp"
+    },
+    {
+        "id": "nick",
+        "type": "shared",
+        "display_name": "Nick",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-nick-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-nick-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-nick-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-nick-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-nick-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-nick-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-nick-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-nick-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-nick-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-nick-speechify.webp"
+    },
+    {
+        "id": "elijah",
+        "type": "shared",
+        "display_name": "Elijah",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-NG",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-NG-elijah-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-elijah-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-elijah-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-NG",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-NG-elijah-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-NG",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-NG-elijah-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-elijah-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-elijah-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-NG",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-NG-elijah-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-elijah-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-NG-elijah-speechify.webp"
+    },
+    {
+        "id": "beverly",
+        "type": "shared",
+        "display_name": "Beverly",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-beverly-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-beverly-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-beverly-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-beverly-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-beverly-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-beverly-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-beverly-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-beverly-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-beverly-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-beverly-speechify.webp"
+    },
+    {
+        "id": "collin",
+        "type": "shared",
+        "display_name": "Collin",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-collin-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-collin-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-collin-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-collin-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-collin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-collin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-collin-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-collin-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-collin-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-collin-speechify.webp"
+    },
+    {
+        "id": "erin",
+        "type": "shared",
+        "display_name": "Erin",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-erin-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-erin-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-erin-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-erin-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-erin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-erin-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-erin-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-erin-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-erin-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-erin-speechify.webp"
+    },
+    {
+        "id": "jack",
+        "type": "shared",
+        "display_name": "Jack",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jack-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jack-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jack-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jack-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jack-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jack-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jack-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jack-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-jack-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-jack-speechify.webp"
+    },
+    {
+        "id": "jesse",
+        "type": "shared",
+        "display_name": "Jesse",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jesse-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jesse-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jesse-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jesse-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jesse-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jesse-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jesse-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jesse-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-jesse-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-jesse-speechify.webp"
+    },
+    {
+        "id": "ken",
+        "type": "shared",
+        "display_name": "Keenan",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-ken-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ken-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ken-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-ken-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-ken-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ken-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ken-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-ken-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-ken-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-ken-speechify.webp"
+    },
+    {
+        "id": "lindsey",
+        "type": "shared",
+        "display_name": "Lindsey",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lindsey-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-lindsey-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-lindsey-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lindsey-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lindsey-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-lindsey-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-lindsey-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-lindsey-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-lindsey-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-lindsey-speechify.webp"
+    },
+    {
+        "id": "monica",
+        "type": "shared",
+        "display_name": "Monica",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-monica-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-monica-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-monica-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-monica-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-monica-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-monica-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-monica-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-monica-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-monica-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-monica-speechify.webp"
+    },
+    {
+        "id": "phil",
+        "type": "shared",
+        "display_name": "Phil",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-phil-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-phil-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-phil-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-phil-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-phil-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-phil-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-phil-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-phil-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-phil-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-phil-speechify.webp"
+    },
+    {
+        "id": "ron",
+        "type": "shared",
+        "display_name": "Declan",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-ron-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ron-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ron-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-ron-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-ron-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-ron-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-ron-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-ron-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-ron-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-ron-speechify.webp"
+    },
+    {
+        "id": "stacy",
+        "type": "shared",
+        "display_name": "Stacy",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-stacy-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-stacy-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-stacy-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-stacy-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-stacy-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-stacy-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-stacy-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-stacy-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-stacy-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-stacy-speechify.webp"
+    },
+    {
+        "id": "archie",
+        "type": "shared",
+        "display_name": "Archie",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-archie-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-archie-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-archie-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-archie-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-archie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-archie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-archie-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-archie-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-archie-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-archie-speechify.webp"
+    },
+    {
+        "id": "evelyn",
+        "type": "shared",
+        "display_name": "Evelyn",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-evelyn-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-evelyn-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-evelyn-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-evelyn-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-evelyn-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-evelyn-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-evelyn-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-evelyn-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-evelyn-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-evelyn-speechify.webp"
+    },
+    {
+        "id": "freddie",
+        "type": "shared",
+        "display_name": "Freddie",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-freddie-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-freddie-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-freddie-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-freddie-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-freddie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-freddie-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-freddie-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-freddie-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-freddie-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-freddie-speechify.webp"
+    },
+    {
+        "id": "harper",
+        "type": "shared",
+        "display_name": "Harper",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-harper-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-harper-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-harper-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-harper-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-harper-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-harper-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-harper-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-GB",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-GB-harper-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-harper-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-GB-harper-speechify.webp"
+    },
+    {
+        "id": "jacob",
+        "type": "shared",
+        "display_name": "Jacob",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jacob-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jacob-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jacob-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jacob-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jacob-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-jacob-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-jacob-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-jacob-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-jacob-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-jacob-speechify.webp"
+    },
+    {
+        "id": "james",
+        "type": "shared",
+        "display_name": "James",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-james-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-james-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-james-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-james-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-james-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-james-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-james-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-james-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-james-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-james-speechify.webp"
+    },
+    {
+        "id": "mason",
+        "type": "shared",
+        "display_name": "Mason",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mason-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-mason-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-mason-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mason-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mason-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-mason-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-mason-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-mason-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-mason-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-mason-speechify.webp"
+    },
+    {
+        "id": "victoria",
+        "type": "shared",
+        "display_name": "Victoria",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-victoria-speechify.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-victoria-speechify.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-victoria-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-english",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-victoria-speechify-english.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-victoria-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "fr-FR",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/fr-FR-victoria-speechify-multilingual.mp3"
+                    },
+                    {
+                        "locale": "es-ES",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-ES-victoria-speechify-multilingual.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-turbo",
+                "languages": [
+                    {
+                        "locale": "en-US",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/en-US-victoria-speechify-turbo.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/multilingual-victoria-speechify-multilingual.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/en-US-victoria-speechify.webp"
+    },
+    {
+        "id": "alejandro",
+        "type": "shared",
+        "display_name": "Alejandro",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-alejandro-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-alejandro-speechify-multilingual.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-alejandro-speechify.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/es-MX-alejandro-speechify.webp"
+    },
+    {
+        "id": "carmen",
+        "type": "shared",
+        "display_name": "Carmen",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carmen-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carmen-speechify-multilingual.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carmen-speechify.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/es-MX-carmen-speechify.webp"
+    },
+    {
+        "id": "carlos",
+        "type": "shared",
+        "display_name": "Diego",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carlos-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carlos-speechify-multilingual.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "male",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-carlos-speechify.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/es-MX-carlos-speechify.webp"
+    },
+    {
+        "id": "celia",
+        "type": "shared",
+        "display_name": "Celia",
+        "models": [
+            {
+                "name": "simba-base",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-celia-speechify.mp3"
+                    }
+                ]
+            },
+            {
+                "name": "simba-multilingual",
+                "languages": [
+                    {
+                        "locale": "es-MX",
+                        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-celia-speechify-multilingual.mp3"
+                    }
+                ]
+            }
+        ],
+        "gender": "female",
+        "preview_audio": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/previews/es-MX-celia-speechify.mp3",
+        "avatar_image": "https://storage.googleapis.com/speechify-ai-api-prod-centralized-voice-list/shared/avatars/es-MX-celia-speechify.webp"
+    }
+]
