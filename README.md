@@ -1,7 +1,7 @@
 # talkNoJutsu Project
 
 ## Description
-This project is a python intelligent text documents reader like a human. It can make feelings and emotions while reading a document. We can read books, articles, and other documents.
+Personal python project, to read documents
 
 
 ## Features
